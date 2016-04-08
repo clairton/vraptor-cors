@@ -74,9 +74,6 @@
 					<encoding>UTF-8</encoding>
 					<source>1.7</source>
 					<target>1.7</target>
-					<compilerArgs>
-						<arg>-parameters</arg>
-					</compilerArgs>
 				</configuration>
 			</plugin>
 			<plugin>

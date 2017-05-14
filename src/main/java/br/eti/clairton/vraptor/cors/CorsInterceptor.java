@@ -14,7 +14,7 @@ import br.com.caelum.vraptor.view.Status;
 /**
  * Adiciona os valores configurados para o CORS.
  * 
- * @author Clairton Rodrigo Heinzen<clairton.rodrigo@gmail.com>
+ * @author Clairton Rodrigo Heinzen clairton.rodrigo@gmail.com
  */
 @Intercepts
 public class CorsInterceptor {

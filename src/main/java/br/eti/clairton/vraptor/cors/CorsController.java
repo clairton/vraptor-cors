@@ -18,7 +18,7 @@ import br.com.caelum.vraptor.view.Status;
 /**
  * Adiciona os cabeçalhos requeridos para o CORS.
  * 
- * @author Clairton Rodrigo Heinzen<clairton.rodrigo@gmail.com>
+ * @author Clairton Rodrigo Heinzen clairton.rodrigo@gmail.com
  */
 @Controller
 @Path("")
